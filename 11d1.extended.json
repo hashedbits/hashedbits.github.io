@@ -1,0 +1,19 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://11d.capital/img/logo-64.png",
+        "url_png_logo": "https://11d.capital/img/logo.png",
+        "location": "Global",
+        "social": {
+            "telegram_handle": "hashedbits",
+            "github_handle": "hashedbits"
+        },
+        "about": {
+            "server": "Enterprise Grade Hardware",
+            "company": {
+                "name": "11D Capital",
+                "addr": "Global",
+                "country": "Global"
+            }
+        }
+    }
+}
